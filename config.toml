@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://melkster.github.io/melexandra/'
 languageCode = 'sv-se'
 title = 'Melexandra'
 theme = 'cleanwhite'
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true # Allow HTML
