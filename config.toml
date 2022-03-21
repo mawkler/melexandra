@@ -1,4 +1,4 @@
-baseURL = 'https://melexandra.com'
+baseURL = 'https://www.melexandra.com'
 languageCode = 'sv-se'
 title = 'Melexandra'
 theme = 'cleanwhite'
