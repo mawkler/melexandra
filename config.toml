@@ -1,7 +1,13 @@
 baseURL = 'https://melexandra.com'
 languageCode = 'sv-se'
-title = 'Melexandra'
+title = 'Mer information kommer snart'
 theme = 'cleanwhite'
+copyright = 'Melexandra'
 
 [markup.goldmark.renderer]
 unsafe = true # Allow HTML
+
+[params]
+  header_image = 'header.jpeg'
+  image_404 = 'blad.jpg'
+  title_404 = 'Hoppsan hejsan den sidan finns inte'
