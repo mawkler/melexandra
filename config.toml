@@ -1,7 +1,7 @@
 baseURL = 'https://melexandra.com'
 languageCode = 'sv-se'
-title = 'Mer information kommer snart'
-theme = 'cleanwhite'
+title = 'Melker och Alexandra gifter sig'
+theme = 'story'
 copyright = 'Melexandra'
 
 [markup.goldmark.renderer]

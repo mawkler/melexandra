@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Välkommen på bröllop
+title: Välkomna på bröllop (klicka här)
 # subtitle: Hello World, Hello Blog
-date: 2022-03-14
-author: Melker och Alexandra
+date: 2022-05-18
+author:  Melker and Alexandra
 URL: /välkommen/
 image: https://www.screensavergift.com/wp-content/uploads/BeautifulForest1.jpg
-draft: true
+draft: false
 ---
 
 Vi är så glada att få bjuda in till bröllop, vi kan knappt bärga oss till september! Här på hemsidan kommer det finnas information som kan vara bra inför bröllopet. Allt från hur ni osar, var vigseln kommer äga rum till klädsel går att kolla upp längre ner på denna sida!
