@@ -1,0 +1,10 @@
+style: |
+  style5 orient-left content-align-left image-position-center
+  onscroll-image-fade-in
+title: Anmäl dig
+content: |
+  Osa gör ni via google formuläret nedan! Vi vill veta vem som kommer och eventuella allergier, all data kommer självklart att raderas efter vigseln :)
+button:
+  label: Tryck här för att anmäla dig
+  link: https://www.youtube.com/watch?v=QB7ACr7pUuE
+image: https://s3.eu-central-1.amazonaws.com/fenix-management-system-dev-media-product/77332c61-8b42-4c48-9548-338b04fe4783.jpg
