@@ -1,6 +1,7 @@
 {{ define "main" }}
 
-	{{ partial "banner" site.Data.banner }}
-	{{ partial "elements" . }}
+  {{ partial "banner" site.Data.banner }}
+  {{ partial "welcome" . }}
+  {{ partial "items" site.Data.contact }}
 
 {{ end }}
