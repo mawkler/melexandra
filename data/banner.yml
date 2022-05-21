@@ -1,6 +1,6 @@
-####################### Banner #########################
-style: "style5 orient-left content-align-left image-position-center onload-image-fade-in onload-content-fade-right"
-title: "Wheew wedding"
-subtitle: |
-  Here's a subtitle
-image: "header.jpeg"
+style: |
+  style5 orient-left content-align-left image-position-center
+  onload-image-fade-in onload-content-fade-right
+title: Välkomna på bröllop!
+subtitle: Melker och Alexandra gifter sig 3 september 2022
+image: header.jpeg

@@ -1,0 +1,14 @@
+<section class="wrapper style1 align-center">
+    <div class="inner">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        <div class="items {{ .style }}">
+            {{ range .items }}
+                {{ partial "item" . }}
+            {{ end }}
+        </div>
+        <p>
+            Under själva bröllopsdagen så kan ni med fördel höra av er till någon av våra tre fantastiska toastmadames och toastmaster då vi kan ha svårt att vara tillgängliga!
+        </p>
+    </div>
+</section>
