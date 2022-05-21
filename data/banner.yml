@@ -4,3 +4,6 @@ style: |
 title: Välkomna på bröllop!
 subtitle: Melker och Alexandra gifter sig 3 september 2022
 image: header.jpeg
+button:
+  label: Tryck här för att anmäla dig
+  link: https://www.youtube.com/watch?v=QB7ACr7pUuE
