@@ -1,16 +1,16 @@
 title: Kontakt
 content: |
-  Om det är något ytterligare som ni undrar så är det bara att höra av er till oss på mail till melexandra2022@gmail.com eller telefon direkt till Alexandra (079 332 09 33) eller Melker (070 206 55 29). Det går även jättebra att höra av sig till våra eminenta toastmasters Amanda, Sara och William via mail toastmasters.melexandra2022@gmail.com eller på telefon:
+  Om det är något ytterligare som ni undrar så är det bara att höra av er till oss på mail till <a href="mailto:melexandra2022@gmail.com">melexandra2022@gmail.com</a> eller telefon direkt till Alexandra (079-332 09 33) eller Melker (070-206 55 29). Det går även jättebra att höra av sig till våra eminenta toastmasters Amanda, Sara och William via mail <a href="mailto:toastmasters.melexandra2022@gmail.com">toastmasters.melexandra2022@gmail.com</a> eller på telefon:
 style: style1 small onscroll-fade-in
 items:
-  - name: Amanda
+  - name: Amanda Lindén
     content: 073-619 06 36
     style: style2 major fa-phone
 
-  - name: Sara
+  - name: Sara Levin
     content: 076-828 60 11
     style: style2 major fa-phone
 
-  - name: William
+  - name: William Munro
     content: 070-760 72 21
     style: style2 major fa-phone

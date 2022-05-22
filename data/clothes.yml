@@ -1,11 +1,11 @@
 style: |
   style1 orient-right content-align-left image-position-center
-  onscroll-image-fade-in
+  onscroll-content-fade-in
 title: Klädsel
 content: |
-  Med kavaj menas en finare klädsel men inte galaklänning eller högtidsdräkt. Klädkoden innebär inte att en måste komma i kavaj utan i korthet - klä er lite fint!
-
+  <b>Kavaj</b>. Med kavaj menas en finare klädsel men inte galaklänning eller högtidsdräkt. Klädkoden innebär inte att du måste komma i kavaj utan i korthet - klä er lite fint!
+  <br><br>
   Kostymbärare har exempelvis en kavaj med fin udda byxa. För klänning eller kjol, använd något som går från knäna och nedåt.
-
-  Det viktigaste är att ha på sig något som en trivs i!
-image: https://mishkanet.com/img/d60b2d5720b2043ca5a8b9c7fa662821.jpg
+  <br><br>
+  Det viktigaste är att du har på dig något som du trivs i!
+image: img/dress-and-suit.jpg
