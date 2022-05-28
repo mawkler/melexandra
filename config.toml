@@ -1,13 +1,11 @@
 baseURL = 'https://melexandra.com'
 languageCode = 'sv-se'
-title = 'Melker och Alexandra gifter sig'
+title = 'Melexandra'
 theme = 'story'
 copyright = 'Melexandra'
 
 [markup.goldmark.renderer]
 unsafe = true # Allow HTML
 
-[params]
-  header_image = 'header.jpeg'
-  image_404 = 'blad.jpg'
-  title_404 = 'Hoppsan hejsan den sidan finns inte'
+[Params]
+  favicon = false
