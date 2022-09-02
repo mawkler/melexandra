@@ -4,7 +4,10 @@ style: |
 title: Vigsel
 content: |
   Vigseln äger rum den 3:e september kl. 16:00 i Sollentuna kyrka och håller på i ca 1h. Efter vigsel dukas bröllopsmiddag upp i församlingshemmet S:t Larsgården precis intill kyrkan.
+  <br>
+  <br>
+  Adressen är <i>Kyrkvägen 2, 191 40 Sollentuna</i>
 button:
   label: Visa på karta
-  link: https://duckduckgo.com/?q=sollentuna+kyrka&iaxm=maps
+  link: https://duckduckgo.com/?q=kyrkv%C3%A4gen+2%2C+sollentuna&iaxm=maps
 image: img/sollentuna-kyrka.jpg
